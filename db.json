@@ -213,40 +213,6 @@
         "src": "https://zudaka.hotglue.me/"
       },
       "description": "Manu Chao y la Ventura en la Cali Calentura 'Empecemos así: drogonomante trasumante necronomicante de esta calicalabozica ciudad *::*^* Cuando ya no sea parte de este mundo volaré hasta el limbo a encontrarme con mi sombra que tanto me sigue, luego recogeré mis pasos que caminaron algún día por este paradigma terrestre. Aquejaré a todos los que desearon el mal para mi y finalmente descansaré en un jardín de flores secas y hojarascas coloridas enredadas con la voluntad de los que me quisieron amar' Trauma. Hugo Caicedo 1976, Poeta, barrista, escritor fanzinero y punkero."
-    },
-    {
-      "placeDrawer": "probando",
-      "artistDrawer": "probando",
-      "artistModal": "::: probando ---",
-      "location": [
-        7.981112115613717,
-        -75.1971620321274
-      ],
-      "urlImage": "box1.jpg",
-      "urlAudio": "http://www.google.com",
-      "description": "probando",
-      "upload": {
-        "title": "no tengo ",
-        "src": "no tengo"
-      },
-      "id": 14
-    },
-    {
-      "placeDrawer": "metrallo",
-      "artistDrawer": "prueba santi",
-      "artistModal": "::: prueba santi ---",
-      "location": [
-        5.760442998239658,
-        -75.63230912986911
-      ],
-      "urlImage": "box1.jpg",
-      "urlAudio": "http://metrallo.com",
-      "description": "asfasdfasdsda",
-      "upload": {
-        "title": "SANTTI",
-        "src": "http://metrallo.com"
-      },
-      "id": 15
     }
   ]
 }
